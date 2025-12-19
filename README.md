@@ -10,6 +10,8 @@
 - MySQL, Authentication (JWT)
 - AWS EC2, Nginx Deployment
 - Frontend basics: HTML, CSS, JavaScript, Bootstrap
+- Version Control: Git, Github
+- Payment Integration: Stripe
 
 ## 📂 Featured Projects
 - [E‑Shop](https://shopwitheshop.com/) – Full‑stack e‑commerce app
