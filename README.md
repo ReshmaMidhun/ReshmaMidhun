@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**ReshmaMidhun/ReshmaMidhun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Reshma Midhun
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Backend Developer | Node.js, Express.js, MySQL  
+📍 Based in Dubai, UAE | Open to Internship Opportunities  
+
+## 🚀 Skills
+- Node.js, Express.js, REST APIs
+- MySQL, Authentication (JWT)
+- AWS EC2, Nginx Deployment
+- Frontend basics: HTML, CSS, JavaScript, Bootstrap
+
+## 📂 Featured Projects
+- [E‑Shop](https://shopwitheshop.com/) – Full‑stack e‑commerce app
+- [Note App](https://reshmamidhun.github.io/Notes-App/) – Lightweight browser‑based note‑taking tool
+- [Weather App](https://reshmamidhun.github.io/Weather-App/) – Real‑time weather forecast app using OpenWeather API
+
+## 🌐 Connect With Me
+🔗 [LinkedIn](www.linkedin.com/in/reshma-midhun)  
+🔗 [GitHub](https://github.com/ReshmaMidhun)
+
