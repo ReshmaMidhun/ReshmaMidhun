@@ -19,6 +19,6 @@
 - [Weather App](https://reshmamidhun.github.io/Weather-App/) – Real‑time weather forecast app using OpenWeather API
 
 ## 🌐 Connect With Me
-🔗 [LinkedIn](www.linkedin.com/in/reshma-midhun)  
+🔗 [LinkedIn](https://www.linkedin.com/in/reshma-midhun/)  
 🔗 [GitHub](https://github.com/ReshmaMidhun)
 
